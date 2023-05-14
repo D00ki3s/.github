@@ -2,6 +2,11 @@
 
 Take full control of your cookies with dookies - anonymous, ZKP-based and incentivized data analytics and tracking for all users with better ad personalization at the same time.
 
+![Diagram_DOOKIES](https://github.com/D00ki3s/.github/assets/105627233/8d47f0a6-4059-49fe-961e-31abebb852a7)
+
+![schema_DOOKIES](https://github.com/D00ki3s/.github/assets/105627233/d3a80bf0-fc51-4d6f-bfdf-d7eba311f8bd)
+
+
 ## Overview
 The main criteria of dookies, as mentioned in the short description, is to have ZK-cookies associated with an anonymous decentralized unique identifier (such as a wallet address) that can be chosen to b traded (for the purpose of data analytics) with companies that need this data. 
 In our implementation for the project the primary actors are the user and the advertiser. Account abstraction is used to not only uniquely identify each of these actors but also allow the advertisers to make payments in crypto and the users, should they choose to, to participate in the incentives program.
