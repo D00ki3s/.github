@@ -4,8 +4,6 @@ Take full control of your cookies with dookies - anonymous, ZKP-based and incent
 
 ![Diagram_DOOKIES](https://github.com/D00ki3s/.github/assets/105627233/8d47f0a6-4059-49fe-961e-31abebb852a7)
 
-![schema_DOOKIES](https://github.com/D00ki3s/.github/assets/105627233/d3a80bf0-fc51-4d6f-bfdf-d7eba311f8bd)
-
 
 ## Overview
 The main criteria of dookies, as mentioned in the short description, is to have ZK-cookies associated with an anonymous decentralized unique identifier (such as a wallet address) that can be chosen to b traded (for the purpose of data analytics) with companies that need this data. 
@@ -24,4 +22,7 @@ Next, sismo connect is used for the main purpose - trading of data in groups by 
  
 The Advertisers use Aave GHO to make the payments.
  - https://github.com/D00ki3s/dookies-advertiser
+
+![schema_DOOKIES](https://github.com/D00ki3s/.github/assets/105627233/d3a80bf0-fc51-4d6f-bfdf-d7eba311f8bd)
+
 
